@@ -15,17 +15,17 @@ LoRA (Low-Rank Adaptation) is a parameter-efficient fine-tuning technique that a
 
 ## Files in This Repository
 
-### 1. Training Script
+### 1. Training Script (Finetune-Llama3.2)
 The training script contains all the necessary steps to fine-tune the model, including data preprocessing, loading the pre-trained model, applying LoRA adapters, and training using the FineTome dataset. 
 
-### 2. After Training
+### 2. After Training (use_finetuned_llama3.2)
 This file provides instructions on how to load and use the fine-tuned model. It contains details on:
 - Loading the fine-tuned model and tokenizer
 - Enabling inference mode for efficient generation
 - Example prompts and expected outputs
 
 ## How to Use the Fine-Tuned Model
-To use the fine-tuned model, refer to the **After Training** file in this repository. This file provides a step-by-step guide on how to load the trained model and perform inference.
+To use the fine-tuned model, refer to the **use_finetuned_llama3.2** file in this repository. This file provides a step-by-step guide on how to load the trained model and perform inference.
 
 ## Applications
 This fine-tuned model can be used for various natural language processing (NLP) tasks, including:
