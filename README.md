@@ -25,7 +25,8 @@ This file provides instructions on how to load and use the fine-tuned model. It 
 - Example prompts and expected outputs
 
 ## How to Use the Fine-Tuned Model
-To use the fine-tuned model, refer to the **use_finetuned_llama3.2** file in this repository. This file provides a step-by-step guide on how to load the trained model and perform inference.
+To use the fine-tuned model, refer to the **After Training** file in this repository. This file provides a step-by-step guide on how to load the trained model and perform inference.
+[**finetuned-model**](https://drive.google.com/drive/folders/15snWAz3KR2-jc5myjNfG4A7ZstFVGBvq?usp=sharing)
 
 ## Applications
 This fine-tuned model can be used for various natural language processing (NLP) tasks, including:
